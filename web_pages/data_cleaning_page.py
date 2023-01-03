@@ -6,7 +6,7 @@ import seaborn as sns
 from seaborn import heatmap
 from pandas_profiling import ProfileReport
 import pickle
-from pages.page_abstract import Page
+from web_pages.page_abstract import Page
 
 DATA_PATH = 'util/loans_full_schema.csv'
 PANDAS_PROFILE_PATH = 'util/pandas_profile.pkl'

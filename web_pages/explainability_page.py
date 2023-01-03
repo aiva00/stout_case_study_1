@@ -1,7 +1,7 @@
 import streamlit as st
 import pickle
 import shap
-from pages.page_abstract import Page
+from web_pages.page_abstract import Page
 
 SHAP_VALUES_PATH = 'util/shap_values.pkl'
 SHAP_FORCE_PLOT_PATH = 'images/shap_force_plot.png'

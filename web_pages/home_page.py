@@ -1,5 +1,5 @@
 import streamlit as st
-from pages.page_abstract import Page
+from web_pages.page_abstract import Page
 
 STOUT_IMAGE = 'images/stout_logo.png'
 

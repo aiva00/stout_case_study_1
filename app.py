@@ -1,11 +1,11 @@
 import streamlit as st
-from pages.data_cleaning_page import DataCleaning
-from pages.home_page import Home
-from pages.data_preprocessing_page import DataPreprocessing
-from pages.outlier_detection_page import OutlierDetection
-from pages.modelling_page import Modeling
-from pages.explainability_page import Explainability
-from pages.visualization_page import Visualization
+from web_pages.data_cleaning_page import DataCleaning
+from web_pages.home_page import Home
+from web_pages.data_preprocessing_page import DataPreprocessing
+from web_pages.outlier_detection_page import OutlierDetection
+from web_pages.modelling_page import Modeling
+from web_pages.explainability_page import Explainability
+from web_pages.visualization_page import Visualization
 
 # Streamlit Config
 

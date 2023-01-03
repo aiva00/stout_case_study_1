@@ -1,5 +1,5 @@
 import streamlit as st
-from pages.page_abstract import Page
+from web_pages.page_abstract import Page
 
 COUNT_GRADE_INTEREST_PLOT_PATH = 'images/count_grade_interest_plot.png'
 INTEREST_GRADE_PLOT_PATH = 'images/interest_grade_plot.png'

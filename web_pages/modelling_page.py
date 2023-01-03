@@ -1,6 +1,6 @@
 import streamlit as st
 import pickle
-from pages.page_abstract import Page
+from web_pages.page_abstract import Page
 
 AUTO_ML_RESULTS_PATH = 'images/auto_ml_plot.png'
 RF_METRICS_TABLE_PATH = 'util/rf_metrics_table.pkl'
